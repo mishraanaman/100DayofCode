@@ -16,6 +16,8 @@ a {
   border: 1px solid rgb(167, 1, 78);
   border-radius: 4px;
   font-size: 24px;
+  display: inline-block;
+  margin: 12px;
 }
 
 a:hover {
@@ -35,6 +37,7 @@ li {
   margin: 32px;
   background-color: rgb(223, 136, 124);
   border-radius: 6px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
 }
 h2 {
   color: rgb(78, 13, 5);
